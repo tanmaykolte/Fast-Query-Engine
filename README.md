@@ -15,13 +15,14 @@ Command to run query engine:
 ./query.py /Users/tanmay/Desktop/2014-10-31.log
 
 
-program to run the interactive query that takes two commands:
+to run the interactive query that takes two commands:
 #### QUERY 
 for querying log file with input parameter <IP address of Server> <CPU ID> <Start time> <Stop time> 
   
 #### EXIT 
 to exit the query engine. The purpose of this tool is its fast query time.
 
+![alt text](https://github.com/tanmaykolte/Fast-Query-Engine/blob/master/images/Picture1.png)
 
 
 
