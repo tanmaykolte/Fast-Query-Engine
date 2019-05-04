@@ -22,7 +22,7 @@ for querying log file with input parameter <IP address of Server> <CPU ID> <Star
 #### EXIT 
 to exit the query engine. The purpose of this tool is its fast query time.
 
-![alt text]()
+![alt text](https://github.com/tanmaykolte/Fast-Query-Engine/blob/master/images/Picture1.png)
 
 
 
