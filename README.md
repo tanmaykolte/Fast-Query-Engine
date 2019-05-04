@@ -5,7 +5,7 @@ Query Engine is an interactive tool for querying CPU utilization from Server log
 ### generator.py 
 replicates log for a given day and save “.log” file to a given directory. 
 
-###query.py 
+### query.py 
 program to run the interactive query that takes two commands:
 
 #### QUERY 
